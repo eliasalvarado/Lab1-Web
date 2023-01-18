@@ -8,3 +8,9 @@
 ### _¿Cuál es el output de éste programa de Brainf*ck?_
  Hello World!
 ![image](https://user-images.githubusercontent.com/77988653/213079608-d6f2c81c-0f40-4504-af08-a2de4a6172ca.png)
+
+### _Traduzcan la siguiente frase a clave morse: ye shall be as gods_
+ -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ... 
+ ![image](https://user-images.githubusercontent.com/77988653/213079771-014f43f9-530b-4833-af38-4d3ae7ae7f54.png)
+
+
